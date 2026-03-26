@@ -1,5 +1,3 @@
 function convertToUpperCase(gift) {
-  return gift.toUpperCase();
+  return text.toUpperCase();
 }
-let result = convertToUpperCase("gift");
-console.log(result);
