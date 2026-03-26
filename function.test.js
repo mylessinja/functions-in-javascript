@@ -1,3 +1,5 @@
 function convertToUpperCase(gift) {
-  return text.toUpperCase();
+  return gift.toUpperCase();
 }
+
+module.exports = { convertToUpperCase };
